@@ -5,9 +5,8 @@
 ### A running log of Python problems solved while learning the fundamentals
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-4FB05F?style=for-the-badge)
 ![Problems](https://img.shields.io/badge/Problems-14-E8A33D?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 
 </div>
 

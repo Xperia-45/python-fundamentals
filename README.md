@@ -54,16 +54,7 @@ Each problem here was assigned for practice right after learning a new concept â
 
 ---
 
-## âœ… To Do
 
-> [!TIP]
-> Track progress here as things get cleaned up.
-
-- [ ] Add inline comments to earlier solutions
-- [ ] Split files into `basics/`, `structures/`, `oop/` folders
-- [ ] Rename files to match problem numbers (e.g. `01_case_conversion.py`)
-
----
 
 <div align="center">
 

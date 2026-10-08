@@ -1,6 +1,6 @@
 print("--------STRINGS---------")
 print("=====this program converts digits to string=====")
-number = input("Enter your roll number")
+number = input("Enter your roll number :: ")
 number_mapping ={
     "1": "one",
     "2": "two",

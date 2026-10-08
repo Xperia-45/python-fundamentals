@@ -1,5 +1,5 @@
 print("--------STRINGS---------")
-print("this program converts digits to string")
+print("=====this program converts digits to string=====")
 number = input("Enter your roll number")
 number_mapping ={
     "1": "one",

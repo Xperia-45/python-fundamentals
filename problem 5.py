@@ -1,9 +1,9 @@
 #shopping discount 
-bill=input("enterr the bill amount")
+bill=input("enterr the bill amount")#for input 
 member=input("arre you member of the store (yes/no)?")
 discount=""
 #statements
-if member=="yes" and int(bill)>5000:
+if member=="yes" and int(bill)>5000:#if statements for comparison 
     print("you get 20% discount")
     discount=20
 elif member=="no" and int(bill)>5000:

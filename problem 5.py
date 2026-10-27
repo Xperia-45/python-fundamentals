@@ -20,8 +20,8 @@ else:
     print("you get no discount")
     discount=0
     #calculaations
-discount_amount=int(bill)*int(discount)/100
-amount_to_pay=int(bill)-discount_amount
+discount_amount=int(bill)*int(discount)/100 #to count discount amt 
+amount_to_pay=int(bill)-discount_amount # to calculate amout to be paid
 #output statements
 print("discount amount" + str(discount_amount))
 print("total amount to pay" + str(amount_to_pay))
